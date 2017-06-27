@@ -32,6 +32,7 @@ gem 'redis', '~> 3.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'jquery-rails'
 gem 'devise'
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
 group :development, :test do
